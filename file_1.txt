@@ -22,3 +22,6 @@ This third line won't have ellipses in it.
 thank goodness
 it is
 Friday
+This is a test.
+It is only a test.
+Thank you.
