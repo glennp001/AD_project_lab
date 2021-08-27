@@ -31,3 +31,4 @@ testing
 Hello World
 Hola Tierra
 Namaste Duniya
+Nǐ hǎo, shìjiè
