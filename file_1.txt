@@ -10,6 +10,7 @@ sun sunny day 3
 thank you for your help 1
 thank you for your help 2
 thank you for your help 3
+welcome for the help 4
 heres my 
 3 lines
 of text
@@ -19,11 +20,13 @@ also
 I'm adding three lines... here's the first.
 I know... a boring second line.
 This third line won't have ellipses in it.
+This fourth one... does.
 thank goodness
 it is
 Friday
 This is a test.
 It is only a test.
+Still just a test.
 Thank you.
 testing
 testing
