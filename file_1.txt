@@ -45,3 +45,6 @@ I'm
 Adding
 Text!
 testing some more
+gp add line 1
+gp add line 2
+gp add line 3
